@@ -22,8 +22,7 @@ describe('angularHint', function() {
     browser.get('allHint/');
 
     //angular-hint-controllers
-    expect(consoleText()).toContain('The best practice is to name ' +
-      'controllers ending with \'Controller\'. Check the name of \'Hint\'');
+    expect(consoleText()).toContain('Consider renaming `Hint` to `HintController`');
 
     //angular-hint-directives
     expect(consoleText()).toContain('ng-repeat');
