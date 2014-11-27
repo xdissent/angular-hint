@@ -28,7 +28,7 @@
     "angular-hint-controllers": "xdissent/angular-hint-controllers#develop",
     "angular-hint-directives": "xdissent/angular-hint-directives#develop",
     "angular-hint-dom": "~0.5.0",
-    "angular-hint-events": "xdissent/angular-hint-controllers#develop",
+    "angular-hint-events": "xdissent/angular-hint-events#develop",
     "angular-hint-interpolation": "~0.3.0",
     "angular-hint-log": "~0.4.0",
     "angular-hint-modules": "~0.4.0",
